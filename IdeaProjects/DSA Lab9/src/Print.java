@@ -1,6 +1,7 @@
 public class Print {
     public static void main(String[] args) {
         printTable(5,1);
+        //for demo
     }
     public static void  printTable(int num,int i){
         if(i > 10)return;
